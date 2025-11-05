@@ -18,12 +18,12 @@ public class Cheers {
         } else {
             AorAN = "a ";     
         }
-        System.out.println("Give me "+AorAN+" "+ args[0].charAt(i) +": "+ args[0].charAt(i) +"!");
+        System.out.println("Give me "+AorAN+" "+ Letter +": "+ Letter +"!");
         }        
 
         System.out.println("What does that spell?");
         for (int j = 0; j < Integer.parseInt(args[1]); j++) { // repeats the final cheer based on the second input argument
-            System.out.println(args[0] + "!!!");
+            System.out.println(args[0].toUpperCase() + "!!!");
         }
 }
 }
