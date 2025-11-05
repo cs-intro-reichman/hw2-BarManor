@@ -18,7 +18,7 @@ public class Cheers {
         } else {
             AorAN = "a ";     
         }
-        System.out.println("Give Me "+AorAN+" "+ args[0].charAt(i) +": "+ args[0].charAt(i) +"!");
+        System.out.println("Give me "+AorAN+" "+ args[0].charAt(i) +": "+ args[0].charAt(i) +"!");
         }        
 
         System.out.println("What does that spell?");
