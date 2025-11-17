@@ -1,3 +1,9 @@
+/* Good job! again it's clear you 
+ * understood the logic and really sat down and coded it
+ * well done.
+ * same styling suggestions for improvement apply here
+ */
+
 // Demonstrates the Collatz conjecture.
 public class Collatz {
 	public static void main(String args[]) {

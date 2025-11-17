@@ -1,3 +1,6 @@
+// spacing is the only thing that is lacking here
+// good job:)
+
 public class TimeCalc { // a function that adds a given number of minutes to a given time in "HH:MM" format
     public static void main(String[] args) {
         String givenTime = args[0]; // e.g., "14:30"
